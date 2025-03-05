@@ -20,5 +20,5 @@ Apaixonado por tecnologia, aprender e por mudar a minha vida atraves da programa
 
 ## Ultimos projetos:
 - [title - tecnologia uso](link)<br/>
-- [title - tecnologia uso](link)<br/>
+- [Amazon planta - Tailwind Css4](https://amazon-planta.netlify.app/)<br/>
 - [title - tecnologia uso](link)<br/>
