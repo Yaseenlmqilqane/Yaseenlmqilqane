@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaseenlmqilqane&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseenlmqilqane)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que eu uso n meu dia
 
 <div style="display: inline_block"><br/>
@@ -22,3 +24,4 @@ Apaixonado por tecnologia, aprender e por mudar a minha vida atraves da programa
 - [title - tecnologia uso](link)<br/>
 - [Amazon planta - Tailwind Css4](https://amazon-planta.netlify.app/)<br/>
 - [title - tecnologia uso](link)<br/>
+
