@@ -21,7 +21,8 @@
 Apaixonado por tecnologia, aprender e por mudar a minha vida atraves da programacao.
 
 ## Ultimos projetos:
-- [title - tecnologia uso](link)<br/>
+- [seuHora - javaScript]([link](https://yaseenlmqilqane.github.io/seuHora/index.html))<br/>
 - [Amazon planta - Tailwind Css4](https://amazon-planta.netlify.app/)<br/>
-- [title - tecnologia uso](link)<br/>
+- [Postfan - javaScript](https://postfan.netlify.app/)<br/>
+
 
